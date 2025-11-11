@@ -1,0 +1,5 @@
+{
+  "name": "Dedicatoria Personalizada con Spotify",
+  "description": "Una aplicación web para crear dedicatorias personalizadas en una imagen, ajustar el texto, la posición, el tamaño y añadir un código de Spotify escaneable. El resultado final se puede descargar como una imagen PNG.",
+  "requestFramePermissions": []
+}
